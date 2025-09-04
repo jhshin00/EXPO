@@ -1,0 +1,10 @@
+[submodule "LIBERO"]
+	path = LIBERO
+	url = git@github.com:jhshin00/LIBERO.git
+[submodule "dsrl_pi0"]
+	path = dsrl_pi0
+	url = git@github.com:jhshin00/dsrl_pi0.git
+[submodule "openpi_official"]
+	path = openpi_official
+	url = git@github.com:jhshin00/openpi_official.git
+	branch = expo
