@@ -1,0 +1,16 @@
+{
+  "task_name": "open_the_middle_drawer_of_the_cabinet",
+  "task_description": "open the middle drawer of the cabinet",
+  "demo_id": 0,
+  "original_actions": 138,
+  "filtered_actions": 138,
+  "noop_count": 0,
+  "noop_indices": [],
+  "agentview_frames": 138,
+  "eye_in_hand_frames": 138,
+  "video_success": {
+    "agentview": true,
+    "eye_in_hand": true,
+    "side_by_side": true
+  }
+}
